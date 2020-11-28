@@ -6,7 +6,7 @@ A Chat UI Built from Scratch using
  - HTML
  - CSS - Flexbox , Grid 
  - Bootstrap
- - Javascript/JQuery
+ - Javascript
  ```
 
 *with DarkMode enabled,EmojiPicker,😀,SearchBar*
